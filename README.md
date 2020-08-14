@@ -18,4 +18,6 @@ Autopsy folder contains the following Autopsy ingest modules:
 
 memory-dump-utils folder contains utilities to aid in performing Switch memory dumps
 
+## Please email questions and success stories to github@modux.co.uk
+
 The project's MIT License can be found in [LICENSE.txt](LICENSE.txt).
